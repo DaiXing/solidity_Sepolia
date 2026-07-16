@@ -18,6 +18,18 @@ forge script script/EasyErc20.s.sol \
 部署成功：
 Contract Address: 0x0cF694A1A2A8eF79a9004CDcF45Bd67fC7eCf457
 
+查看合约：
+https://sepolia.etherscan.io/address/0x0cF694A1A2A8eF79a9004CDcF45Bd67fC7eCf457
+
+部署产生的交易： 
+https://sepolia.etherscan.io/tx/0xe6850e24f9f8f487e537cee00cd391bd250e98b21ef36db7fb0f5b860be0912d
+
+
+
+
+
+
+
 
 
 
